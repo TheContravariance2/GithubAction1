@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GitHubActionPractice1.props" />
+</Project>
